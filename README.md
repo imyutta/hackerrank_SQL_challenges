@@ -7,7 +7,7 @@ This repository contains my solutions to various HackerRank problems.
 - SQL/
     - 
   - [contest_leaderboard.sql] [Task Description]
-  - [Task Description] (https://www.hackerrank.com/challenges/contest-leaderboard/problem "Link")
+  - [Task Description](https://www.hackerrank.com/challenges/contest-leaderboard/problem "Link")
   <!-- Links -->
   <!--
   [contest_leaderboard.sql]: https://github.com/imyutta/hackerrank_challenges/blob/main/SQL/contest_leaderboard.sql
