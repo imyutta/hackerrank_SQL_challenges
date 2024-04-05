@@ -1,2 +1,7 @@
-# hackerrank_SQL_challenges
-Intermediate level
+# Hackerrank Challenges solutions
+
+This repository contains my solutions to various HackerRank problems.
+
+## Repository Structure
+
+- SQL/
