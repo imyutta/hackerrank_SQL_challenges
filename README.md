@@ -6,4 +6,4 @@ This repository contains my solutions to various HackerRank problems.
 
 - SQL/
     - 
-  - contest_leaderboard.sql [PROBLEM](https://www.hackerrank.com/challenges/contest-leaderboard/problem)[SOLUTION](https://github.com/imyutta/hackerrank_challenges/blob/main/SQL/contest_leaderboard.sql) 
+  - contest_leaderboard.sql [PROBLEM](https://www.hackerrank.com/challenges/contest-leaderboard/problem)&nbsp; [SOLUTION](https://github.com/imyutta/hackerrank_challenges/blob/main/SQL/contest_leaderboard.sql) 
