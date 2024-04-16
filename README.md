@@ -12,4 +12,4 @@ This repository contains my solutions to various HackerRank problems.
     - 05_ollivanders_inventory.sql &nbsp;[PROBLEM](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) &nbsp; [SOLUTION](https://github.com/imyutta/hackerrank_challenges/blob/main/SQL/05_ollivanders_inventory.sql)&nbsp;| SCORE: 30 | LEVEL: Intermediate
     - 06_sql_project_planning.sql &nbsp;[PROBLEM](https://www.hackerrank.com/challenges/sql-projects/problem) &nbsp; [SOLUTION](https://github.com/imyutta/hackerrank_challenges/blob/main/SQL/06_sql_project_planning.sql)&nbsp;| SCORE: 40 | LEVEL: Intermediate
     - 07_binary_tree_nodes.sql &nbsp;[PROBLEM](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) &nbsp; [SOLUTION](https://github.com/imyutta/hackerrank_challenges/blob/main/SQL/07_binary_tree_nodes.sql)&nbsp;| SCORE: 30 | LEVEL: Intermediate
-    
+    - 08_weather_observation.sql &nbsp;[PROBLEM](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) &nbsp; [SOLUTION](https://github.com/imyutta/hackerrank_challenges/blob/main/SQL/08_weather_observation.sql)&nbsp;| SCORE: 40 | LEVEL: Intermediate
